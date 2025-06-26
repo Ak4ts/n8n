@@ -49,7 +49,7 @@
       "dist/nodes/vendors/OpenAi/OpenAi.node.js",
       "dist/nodes/agents/Agent/Agent.node.js",
       "dist/nodes/agents/OpenAiAssistant/OpenAiAssistant.node.js",
-      "dist/nodes/agents/BackendAgent/AgentBackend.node.ts", 
+      "dist/nodes/agents/BackendAgent/BackendAgent.node.js", 
       "dist/nodes/chains/ChainSummarization/ChainSummarization.node.js",
       "dist/nodes/chains/ChainLLM/ChainLlm.node.js",
       "dist/nodes/chains/ChainRetrievalQA/ChainRetrievalQa.node.js",

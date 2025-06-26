@@ -7,7 +7,7 @@ import { AgentV2 } from './V2/AgentV2.node';
 export class Agent extends VersionedNodeType {
 	constructor() {
 		const baseDescription: INodeTypeBaseDescription = {
-			displayName: 'AI Agent',
+			displayName: 'AI Agent modzin',
 			name: 'agent',
 			icon: 'fa:robot',
 			iconColor: 'black',
